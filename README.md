@@ -244,3 +244,15 @@ Here's what we might end up doing in the end:
 
 **note** currently can't reproduce this, but - Affinity Designer will keep transforms in the output. We believe that this is for the sake of the history panel, which is great. However - having them in the output makes for trouble in later animatable elements
 
+
+## other notes
+
+An option to include things as symbols in the out put / and insert _use_ in their place
+
+<img src='images/symbol-note.png' alt=''>
+
+To have many classes based on spaces in title
+
+<img src='images/multiple-classes-note.png' alt=''>
+
+`<circle class="skin  color-400" ...`
