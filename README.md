@@ -242,6 +242,8 @@ Here's what we might end up doing in the end:
 </svg>
 ```
 
+Plese see <a href='https://codepen.io/perpetual-education/pen/KKZWEvo?editors=1100' target='cp1'>a CodePen of this example</a>.
+
 ## Transforms
 
 **note** currently can't reproduce this, but - Affinity Designer will keep transforms in the output. We believe that this is for the sake of the history panel, which is great. However - having them in the output makes for trouble in later animatable elements
