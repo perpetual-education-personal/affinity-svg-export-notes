@@ -260,3 +260,24 @@ To have many classes based on spaces in title
 <img src='images/multiple-classes-note.png' alt=''>
 
 `<circle class="skin  color-400" ...`
+
+
+<hr />
+
+## Research
+
+Corel draw, and a little of everything. Using Adobe Illustrator for ~ 20 years. Using Affinity Designer for 8.
+
+<a href='https://abookapart.com/products/practical-svg' target='aba'>Practical SVG</a> Book with details on output settings - 2016
+
+Countless CSS/SVG convention talks.
+
+<a href='https://www.oreilly.com/library/view/svg-animations/9781491939697' target='o1'>SVG Animation</a> Book - April 2017
+
+<a href='https://www.oreilly.com/library/view/using-svg-with/9781491921968/' target='o2'>Using SVG with CSS3 and HTML5</a> Book - October 2017
+
+Various video tutorials that have now seemingly been removed and possibly included in smaller workshop settings.
+
+<a href='https://frontendmasters.com/courses/svg-essentials-animation/' target='sd'>Sarah Drasner - SVG Essentials & Animation, v1 and v2</a> 2016, 2019
+
+<a href='https://www.cassie.codes/speaking/getting-started-with-svg-animation/' target='c'>Cassie Evans - SVG Animation Masterclass</a> September 2021
