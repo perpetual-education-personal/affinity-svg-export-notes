@@ -428,3 +428,11 @@ Got any ideas? Are we _way off_ on something? Help us clarify this stuff. : )
 - <a href='https://frontendmasters.com/courses/svg-essentials-animation/' target='sd'>Sarah Drasner - SVG Essentials & Animation, v1 and v2</a> 2016, 2019
 
 - <a href='https://www.cassie.codes/speaking/getting-started-with-svg-animation/' target='c'>Cassie Evans - SVG Animation Masterclass</a> September 2021
+
+---
+
+## Other discussions
+
+[Affinity Designer feature wishlist](https://github.com/perpetual-education/affinity-designer-wishlist)
+
+
