@@ -21,7 +21,7 @@ note: we normally use tabs, but - github shows them as 4 spaces, so - in this ca
 
 ## Transforms
 
-**note** When an object is moved, AD will create a group and apply a transform to that group. We believe that this is for the sake of the history panel, which is _great_. However - having them in the output makes for mojor trouble in later animatable elements. `flatten transforms [x]` takes care of that smoothly.
+**note** When an object is moved, AD will create a group and apply a transform to that group. We believe that this is for the sake of the history panel, which is _great_. However - having them in the output makes for major trouble in later animatable elements. `flatten transforms [x]` takes care of that smoothly.
 
 ```html
   <g id="face1" serif:id="face">
