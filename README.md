@@ -411,6 +411,12 @@ Got any ideas? Are we _way off_ on something? Help us clarify this stuff. : )
 
 <hr />
 
+## Related articles
+
+- [Ideal SVG exports](https://bjango.com/articles/svgexports)
+
+<hr />
+
 ## Research
 
 - Corel draw, and a little of everything. Using Adobe Illustrator for ~ 20 years. Using Affinity Designer for 8.
